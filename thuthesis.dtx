@@ -3940,28 +3940,28 @@
     \ifthu@main@language@chinese
       \titlecontents{chapter}
         [\z@]{\addvspace{6bp}\sffamily}
-        {\contentspush{\thecontentslabel\quad}}{}
+        {\thecontentslabel\quad}{}
         {\rmfamily\thu@leaders\thecontentspage}%
       \titlecontents{section}
         [1em]{}
-        {\contentspush{\thecontentslabel\quad}}{}
+        {\thecontentslabel\quad}{}
         {\thu@leaders\thecontentspage}%
       \titlecontents{subsection}
         [2em]{}
-        {\contentspush{\thecontentslabel\quad}}{}
+        {\thecontentslabel\quad}{}
         {\thu@leaders\thecontentspage}%
     \else
       \titlecontents{chapter}
         [\z@]{\addvspace{6bp}\heiti}
-        {\contentspush{\MakeUppercase{\thecontentslabel}\quad}\MakeUppercase}{\MakeUppercase}
+        {\MakeUppercase{\thecontentslabel}\quad\MakeUppercase}{\MakeUppercase}
         {\rmfamily\thu@leaders\thecontentspage}%
       \titlecontents{section}
         [1em]{}
-        {\contentspush{\thecontentslabel\space}}{}
+        {\thecontentslabel\quad}{}
         {\thu@leaders\thecontentspage}%
       \titlecontents{subsection}
         [2em]{}
-        {\contentspush{\thecontentslabel\space}}{}
+        {\thecontentslabel\quad}{}
         {\thu@leaders\thecontentspage}%
     \fi
   \fi
