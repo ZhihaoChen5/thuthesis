@@ -985,7 +985,7 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 312.36787fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 321.40163fill
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 CHAPTER
@@ -995,7 +995,7 @@ Completed box being shipped out [3]
 ....\TU/texgyretermes(0)/m/n/12.045 1
 ....\kern -0.0002
 ....\kern 0.0002
-....\glue 12.045
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 TITLE
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1026,14 +1026,14 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 360.11426fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 369.14801fill
 ....\glue(\leftskip) 12.045
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 1.1
-....\kern -0.0002
-....\kern 0.0002
-....\glue 12.045
+....\kern -0.00021
+....\kern 0.00021
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 Title
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1064,14 +1064,14 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 339.0355fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 348.06926fill
 ....\glue(\leftskip) 24.09
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 1.1.1
-....\kern -0.0002
-....\kern 0.0002
-....\glue 12.045
+....\kern -0.00021
+....\kern 0.00021
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 Title
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1102,14 +1102,14 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 339.0355fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 348.06926fill
 ....\glue(\leftskip) 24.09
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 1.1.2
-....\kern -0.0002
-....\kern 0.0002
-....\glue 12.045
+....\kern -0.00021
+....\kern 0.00021
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 Title
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1140,14 +1140,14 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 339.0355fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 348.06926fill
 ....\glue(\leftskip) 24.09
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 1.1.3
-....\kern -0.0002
-....\kern 0.0002
-....\glue 12.045
+....\kern -0.00021
+....\kern 0.00021
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 Title
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1178,14 +1178,14 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 339.0355fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 348.06926fill
 ....\glue(\leftskip) 24.09
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 1.1.4
-....\kern -0.0002
-....\kern 0.0002
-....\glue 12.045
+....\kern -0.00021
+....\kern 0.00021
+....\glue 3.01125 plus 1.50562 minus 1.00374
 ....\TU/texgyretermes(0)/m/n/12.045 Title
 ....\kern -0.0002
 ....\kern 0.0002
@@ -1251,7 +1251,7 @@ Completed box being shipped out [3]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 0.00002
-...\hbox(14.05243+6.02255)x426.79135, glue set 305.02043fill
+...\hbox(14.05243+6.02255)x426.79135, glue set 314.05418fill
 ....\hbox(0.0+0.0)x0.0
 ....\rule(14.05243+6.02255)x0.0
 ....\TU/texgyretermes(0)/m/n/12.045 APPENDIX
@@ -1261,7 +1261,7 @@ Completed box being shipped out [3]
 ....\TU/texgyretermes(0)/m/n/12.045 A
 ....\kern -0.0002
 ....\kern 0.0002
-....\glue 12.045
+....\glue 3.01125 plus 1.5041 minus 1.00473
 ....\TU/texgyretermes(0)/m/n/12.045 TITLE
 ....\kern -0.0002
 ....\kern 0.0002
